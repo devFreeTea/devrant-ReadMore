@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         DevRant reduce amount of text generated
 // @namespace    http://devrant.com/
-// @version      0.1
+// @version      0.2
 // @description  Replace a text from a rant that is to long into a read more
 // @author       devTea
 // @match        *devrant.com/*
