@@ -13,7 +13,7 @@
    var text = document.querySelectorAll('.rantlist-title-text');
    for (var i = 0; i < text.length; i++) {
        if (text[i].innerHTML.length > 300) {
-           text[i].innerHTML = text[i].innerHTML.substring(0, 300) + ' (read more)';
+           text[i].innerHTML = text[i].innerHTML.substring(0, 300) + '... (read more)';
        }
    }
 })();
